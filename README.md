@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Manas Pandya👋
 
-<!--
-**StarBoy200614/StarBoy200614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE Student | 🧠 Learning Web Dev & CS Fundamentals
+💻 Passionate about building projects and solving problems
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack:
+- Python, C/C++
+- Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects:
+- Logic Circuit Simulations(https://www.tinkercad.com/things/bXuOIpTDEiT-daring-wolt-amberis, https://www.tinkercad.com/things/88U4B07DjVC-spectacular-crift-migelo, and many more...)
+- 3D printed a project(Model: https://www.tinkercad.com/things/6nN1lSlqroe-hollow-clock)
+- Currently working on building my own portfolio website
+## 📫 Contact Me:
+- ✉️ Email: manaspandya2006@gmail.com
